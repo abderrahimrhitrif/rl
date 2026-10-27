@@ -24,10 +24,3 @@ This project explores multi-armed bandit algorithms through Jupyter notebooks, i
 ```bash
 jupyter notebook n-arms-bandit.ipynb
 ```
-
-## CV Bullet Points
-- Implemented stationary and non-stationary multi-armed bandit reinforcement learning simulations in Python, evaluating $\epsilon$-greedy strategies and constant step-size update rules.
-- Visualized average rewards and optimal action percentages across multiple independent simulation runs.
-
-## Claims to Avoid
-- Do not claim advanced deep reinforcement learning robotics deployment.
